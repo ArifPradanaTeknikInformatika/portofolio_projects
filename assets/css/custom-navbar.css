@@ -1,23 +1,4 @@
-<<<<<<< HEAD
-body{
 
-    background-color: brown;
-}
-
-li{
-
-    position: relative;
-}
-.dropdown>.dropdown-menu>li:hover>{
-
-
-    background-color:black !important; 
-    position: absolute;
-    display: block;
-
-
-}   
-=======
 .navbar>li {
 
     position: relative;
@@ -52,4 +33,3 @@ li:hover {
     left: 100px;
     /* background-color: turquoise !important; */
 }
->>>>>>> css-navbar
