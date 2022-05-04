@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
 
     background-color: brown;
@@ -16,3 +17,39 @@ li{
 
 
 }   
+=======
+.navbar>li {
+
+    position: relative;
+
+
+}
+
+
+li:hover {
+
+    font-weight: 700;
+
+
+
+}
+
+.dropdown-item>a {
+    color: rgb(0, 140, 255) !important;
+
+}
+
+.dropdown-menu>li:hover>.dropdown-menu {
+    display: block;
+    position: absolute;
+    left: 100px;
+}
+
+.dropdown-menu>li:hover>.dropdown-menu {
+
+    display: block;
+    position: absolute;
+    left: 100px;
+    /* background-color: turquoise !important; */
+}
+>>>>>>> css-navbar
