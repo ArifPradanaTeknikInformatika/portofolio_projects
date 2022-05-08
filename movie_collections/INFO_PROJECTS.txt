@@ -1,0 +1,10 @@
+Teknologi : html,css,javascript,bootstrap 5
+
+Goal :
+    - Berinterkasi dengan API dari sebuah web (idmb)
+    - manipulasi object - object dari respon API tersebut
+    - memakai template literal untuk generate sebagian besar components
+    - menerapkan destructuring variable, callback function
+    - menerapkan jquery ajax
+    - Menampilkan semua dengan sistem responsive menggunakan class yang ada di bootstrap
+
