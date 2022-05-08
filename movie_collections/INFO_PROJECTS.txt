@@ -5,6 +5,6 @@ Goal :
     - manipulasi object - object dari respon API tersebut
     - memakai template literal untuk generate sebagian besar components
     - menerapkan destructuring variable, callback function
-    - menerapkan jquery ajax
+    - menerapkan JQUERY AJAX
     - Menampilkan semua dengan sistem responsive menggunakan class yang ada di bootstrap
 
